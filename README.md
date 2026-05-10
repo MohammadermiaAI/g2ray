@@ -1,4 +1,4 @@
-only works in places where you can open github codespaces
+**only works in places where you can open github codespaces**
 
 ## setup
 1. fork the repo
@@ -22,6 +22,4 @@ tested on shecan (free plan). so if you can see any of these ips, it'll work for
 - 63.141.252.203
 - 94.130.50.12
 
-## support the project
-- [buy me a coffee](https://www.buymeacoffee.com/amiremohamadi)
-- eth: `0x5724c38100b2aE3d2547974f46D0f2f49eb2D152`
+
