@@ -12,10 +12,9 @@
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "xhttp",
-        "xhttpSettings": {
-          "mode": "packet-up",
-          "path": "/"
+        "network": "ws",
+        "wsSettings": {
+          "path": "/secure-ws-tunnel"
         }
       }
     }
